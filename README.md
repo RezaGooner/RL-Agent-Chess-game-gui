@@ -49,7 +49,7 @@ An interactive and user-friendly chess game powered by reinforcement learning ag
 Make sure you have the following dependencies installed:
 
 ```bash
-pip install pygame chess numpy stable-baselines3 imageio
+pip install pygame chess numpy stable-baselines3
 ```
 
 You will also need the following:
